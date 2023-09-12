@@ -1,0 +1,7 @@
+C:\Users\ekrem\source\repos\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe.config
+C:\Users\ekrem\source\repos\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\ekrem\source\repos\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.pdb
+C:\Users\ekrem\source\repos\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\ekrem\source\repos\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\source\repos\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\ekrem\source\repos\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.pdb
